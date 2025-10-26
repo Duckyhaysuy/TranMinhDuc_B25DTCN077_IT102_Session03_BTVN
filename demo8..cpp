@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	int number;
-	printf("nhap so nguyen 4 chu so");
+	printf("nhap so nguyen 4 chu so: ");
 	scanf("%d",&number);
 	
 	int d1 = number%10;
